@@ -7,7 +7,7 @@ Developer at heart working as Senior Solutions Architect @aws. Currently working
 
 --- 
 <p align="center">
-  <a href="https://www.linkedin.com/in/steve-houel/">LinkedIn</a> ::
+  <a href="https://www.linkedin.com/in/pankajagrawal16/">LinkedIn</a> ::
   <a href="https://twitter.com/agrawalpankaj16">Twitter</a>
   <a href="https://www.me.pankaagr.cloud/">Website</a>
 </p>
