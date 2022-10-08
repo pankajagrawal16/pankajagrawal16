@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Developer at heart, working as Principal Customer Engineer at @Microsoft**
+**I am Developer at heart, currently working as Principal Customer Engineer at @Microsoft**
 
 Working with different customers across Nordics, helping them to make best use of Cloud native technologies and accelerate their journey to cloud. In my spare time, I enjoy running into the woods and love to learn new technical skills. I am quite passionate about DevOps and serverless technologies in general.
 
@@ -29,7 +29,7 @@ In the overview below you will find my most recent work experience:
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="tcs" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/tcs.jpeg?raw=true"/>](https://www.tcs.com/)
+[<img align="left" height="94px" width="94px" alt="tcs" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/tcs.png?raw=true"/>](https://www.tcs.com/)
 
 **Scrum master & Senior systemutvikler**  7 years 1 month
 
