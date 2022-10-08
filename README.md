@@ -12,7 +12,7 @@ Working with different customers across Nordics, helping them to make best use o
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="aws" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/aws.png?raw=true"/>](https://aws.amazon.com/)
+[<img align="left" height="94px" width="94px" hspace="10" alt="aws" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/aws.png?raw=true"/>](https://aws.amazon.com/)
 
 **Senior Solutions Architect**  1 year 2 months
 
@@ -22,17 +22,20 @@ In the overview below you will find my most recent work experience:
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="posten" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/posten.png?raw=true"/>](https://www.posten.no/)
+[<img align="left" height="94px" width="94px" hspace="10" alt="posten" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/posten.png?raw=true"/>](https://www.posten.no/)
 
 **Scrum master & Senior systemutvikler**  1 year 10 months
 
 <br/>
 <br/>
+<br/>
+<br/>
 
-[<img align="left" height="94px" width="94px" alt="tcs" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/tcs.png?raw=true"/>](https://www.tcs.com/)
+[<img align="left" height="94px" width="94px" hspace="10" alt="tcs" src="https://github.com/pankajagrawal16/pankajagrawal16/blob/main/images/tcs.png?raw=true"/>](https://www.tcs.com/)
 
-**Scrum master & Senior systemutvikler**  7 years 1 month
+**Assistant Consultant**  7 years 1 month
 
+<br/>
 <br/>
 <br/>
 
