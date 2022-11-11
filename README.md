@@ -8,7 +8,7 @@ Working with different customers across Nordics, helping them to make best use o
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pankajagrawal16&show_icons=true" alt="pankajagrawal16" /> </p>
 
 
-### Work Experience
+### Previous Work Experience
 
 In the overview below you will find my most recent work experience:
 
